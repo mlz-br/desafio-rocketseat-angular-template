@@ -3,5 +3,10 @@
     "id": 1,
     "email": "novo@example.com",
     "password": "$2b$10$G/AWJa9n6GoXbN2JjU5YpuBZum/GbtWZR0J76mhVHgTlyMzwEFAm."
+  },
+  {
+    "id": 2,
+    "email": "marcos@example.com",
+    "password": "$2b$10$GNfP3BCjKmR6j1fVliNLae/9QPYCKah2MbGZVdYGrTK18lXebfH4S"
   }
 ]
